@@ -77,6 +77,14 @@ p {
   text-decoration: underline;
 }
 @media (max-width: 540px) {
+  body {
+    margin: 100px;
+  }
+  h1,
+  h2,
+  h3 {
+    text-align: center;
+  }
   h1 {
     font-size: 52px;
   }
